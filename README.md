@@ -1,1 +1,1 @@
-RN-Swipe-List
+RN-Swipe-List v 1
